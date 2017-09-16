@@ -1,0 +1,4 @@
+Beef Burger Meal..Beef Burger, Chips, any Coca-Cola Drink...76.99
+Chicken Burger Meal...Chicken Burger, Chips, any Coca-Cola drink...70.99
+Mutton Burger Meal...Mutton Burger, Chips, any Coca-Cola drink...74.99
+Supreme Beef Burger Meal...Supreme Beef Burger, Chips, any Coca-Cola drink...82.99 
