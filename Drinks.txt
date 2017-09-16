@@ -1,0 +1,16 @@
+Coca-Cola...18,90
+Sprite...18,90
+Fanta...18,90
+Pepsi...14.99
+
+Vanilla Milkshake...25.99
+Chocolate Milkshake...25.99
+Strawberry Milkshake...25.99
+
+Soda Float...14.99
+
+Rooiboos Tea...21.99
+Five Roses Tea...21.99
+
+Capuccino...24.99
+Americano...24.99
