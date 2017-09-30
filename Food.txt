@@ -1,11 +1,12 @@
-Beef Burguer...250g pure beef patty, crisp lettuce, tomato...40.99
-Chicken Burger...Crispy chicken, mayonnaise lettuce...38.99
-Mutton Burger...Mutton curry...36.38
-Supreme Beef Burger...350g pure beef, lettuce , tomato, mozzarella cheese, pineapple...45.99
-
-Margherita Pizza...Mozzarella cheese, fresh basil, tomato sauce...45.99
-Vegetarian Pizza...No Description Avaliable...51.99
-Something Meaty Pizza...Bacon, cubes, shredded beef, BBQ sauce...76.99
-Cheicken Pizza...Chicken pieces, mushroom, BBQ sauce...70.99
+BURGERS
+Beef Burguer;250g pure beef patty, crisp lettuce, tomato;40.99
+Chicken Burger;Crispy chicken, mayonnaise lettuce;38.99
+Mutton Burger;Mutton curry;36.38
+Supreme Beef Burger;350g pure beef, lettuce , tomato, mozzarella cheese, pineapple;45.99
+PIZZAS
+Margherita Pizza;Mozzarella cheese, fresh basil, tomato sauce;45.99
+Vegetarian Pizza;No Description Avaliable;51.99
+Something Meaty Pizza;Bacon, cubes, shredded beef, BBQ sauce;76.99
+Chicken Pizza;Chicken pieces, mushroom, BBQ sauce;70.99
 
  
