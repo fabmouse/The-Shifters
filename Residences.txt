@@ -1,0 +1,63 @@
+Lower Campus
+Beit House
+Jameson House
+Oriel House
+Oriel Annexe
+Allan Gray House
+Celeste House
+Graham House
+Prince Alfred House
+Botha House
+College House
+Cory House
+Matthews House
+John Kotze House
+John Kotze Annexe
+Lillian Britten House
+Olive Schreiner House
+Phelps House
+
+Middle Campus
+Adamson House
+Atherstone House
+Jan Smuts House
+New House House
+New House Annexe 1
+New House Annexe 2
+New House Annexe 3
+Chris Hani House
+Piet Retief House
+Thomas Pringle House
+Walker House
+Stanley Kidd House
+Adelaide Tambo House
+Guy Butler House
+Helen Joseph House
+Milner House
+Dingemans House
+Hobson House
+Livingstone House
+5 Gilbert Street
+6 Gilbert Street
+Gilbert Street PG
+
+Upper Campus
+Canterbury House
+Canterbury Annex
+Salisbury House
+Truro House
+Winchester House
+Ellen Kuzwayo House
+Amina Cachalia House
+Calata House
+Maragaret Smith House
+Hilltop 3 House
+Oakdene House
+Cullen Bowles House
+DeBeers House
+Rosa Parks House
+Goldfileds House
+Centenery House
+Ruth First House
+Joe Slovo House
+Victoria Mxenge House
